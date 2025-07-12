@@ -6,7 +6,7 @@ I started out in 🚀 entrepreneurship and discovered a passion for 📊 data sc
 
 ### 🚧 Currently working on:
 - 🌱 Learning advanced Python (functional programming, data structures, and algorithms)  
-- 📚 Following the [boot.dev](https://www.boot.dev/u/...) backend curriculum  
+- 📚 Following the [boot.dev](https://www.boot.dev/u/riessss) backend curriculum  
 - 🧱 Developing a full-stack web application 
 - 🤝 Looking to contribute to open source projects  
 
