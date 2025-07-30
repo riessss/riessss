@@ -7,7 +7,7 @@ I started out in 🚀 entrepreneurship and discovered a passion for 📊 data sc
 ### 🚧 Currently working on: 
 - 📚 Following the [boot.dev](https://www.boot.dev/u/riessss) backend curriculum  
 - 🎵 Building a full-stack music application
-- 🤝 Looking to contribute to open source projects  
+- 👾 Participating in Hackathons
 
 ### 🎯 Goals:   
 - 🦫 Learn Go (Golang)  
