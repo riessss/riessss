@@ -1,7 +1,7 @@
 ## Hi there 👋  
 Welcome to my GitHub profile!
 
-I'm a 🐍 Python developer who enjoys building with FastAPI or Flask.   
+I'm a 🐍 Python developer who enjoys building with FastAPI and Flask.   
 I started out in 🚀 entrepreneurship and discovered a passion for 📊 data science along the way. Since then, I've been diving deep into 🔧 backend development and growing my skills every day.
 
 ### 🚧 Currently working on: 
