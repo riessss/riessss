@@ -5,8 +5,9 @@ I'm a 🐍 Python developer who enjoys building with FastAPI and Flask.
 I started out in 🚀 entrepreneurship and discovered a passion for 📊 data science along the way. Since then, I've been diving deep into 🔧 backend development and growing my skills every day.
 
 ### 🚧 Currently working on: 
-- 📚 Following the [boot.dev](https://www.boot.dev/u/riessss) backend curriculum  
+- 📚 Following the [boot.dev](https://www.boot.dev/u/riessss) backend curriculum
 - 🎵 Building a full-stack music application
+- 🗃️ Improving my SQL and Database knowledge
 - 👾 Participating in Hackathons
 
 ### 🎯 Goals:   
