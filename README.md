@@ -11,7 +11,7 @@ I started out in 🚀 entrepreneurship and discovered a passion for 📊 data sc
 - 👾 Participating in Hackathons
 
 ### 🎯 Goals:   
-- ☁️ Improve my Cloud and Production knowlede
+- ☁️ Improve my Cloud and Hosting knowlede
 - 🌍 Become an active open source contributor  
 - 🏁 Complete the [boot.dev](https://www.boot.dev/u/riessss) curriculum  
 
